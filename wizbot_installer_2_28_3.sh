@@ -34,7 +34,7 @@ echo ""
 echo "WizBot downloaded."
 
 echo ""
-echo "Downloading Nadeko dependencies"
+echo "Downloading WizBot dependencies"
 cd $root/WizBot
 dotnet restore
 echo ""
